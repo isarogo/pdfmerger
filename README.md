@@ -1,6 +1,11 @@
 # pdfmerger
 a lightweight pdf merger utility in python
 
+##Package Requirements
+
+- PyPDF2
+- sys
+
 ## Usage
 
 Place the .pdfs you wish to merge into the same directory as `pdf_merger.py`.
