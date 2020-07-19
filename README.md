@@ -1,7 +1,7 @@
 # pdfmerger
 a lightweight pdf merger utility in python
 
-##Package Requirements
+## Package Requirements
 
 - PyPDF2
 - sys
