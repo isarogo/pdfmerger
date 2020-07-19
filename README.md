@@ -11,7 +11,7 @@ Run the following code to merge:
 
 Where
 
-- `desired_name_of_output` == the name you wish the completed merge file to take. The program will automatically add the `.pdf` extension.
+- `desired_name_of_output`: the name you wish the completed merge file to take. The program will automatically add the `.pdf` extension.
 - `name_of_first_doc.pdf`: the name of the first document you would like merged. The program will place this pdf first.
 - `name_of_nth_doc.pdf`: the name of the next document you would like merged.
 
